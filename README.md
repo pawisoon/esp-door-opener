@@ -11,7 +11,8 @@
 - Connect your esp with power supply and make sure everything is connected as on the schema in this repo or as on the picture below. 
 
 
-<schema to be uploaded>
+![alt tag](https://github.com/pawisoon/esp-door-opener/blob/master/IMG_2016-11-21%2023:11:14.jpg)
+
 
 
 - Upload the sketch.
@@ -45,7 +46,7 @@ https://scr.hu/RLY5J6
 - Podłącz ESP do zasilania i upewnij się że wszystko jest tak jak na schemacie poniżej. 
 
 
-<schemat będzie tu>
+![alt tag](https://github.com/pawisoon/esp-door-opener/blob/master/IMG_2016-11-21%2023:11:14.jpg)
 
 
 - Załaduj sketch na ESP.
